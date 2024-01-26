@@ -43,8 +43,8 @@ The input file should have the following format:
 <Type_1, Type_2, ..., Type_n>
 <Type_1 Against_Type_1:effective-against-me,effective-against-others, ..., Type_1 Against_Type_n:effective-against-me,effective-against-others>
 <Type_2 Against_Type_1:effective-against-me,effective-against-others, ..., Type_2 Against_Type_n:effective-against-me,effective-against-others>
-...
+
 <Pokémon Data>
 <Pokemon_1_Name, Pokemon_1_Species, Pokemon_1_Type, Pokemon_1_Height, Pokemon_1_Weight, Pokemon_1_Attack>
 <Pokemon_2_Name, Pokemon_2_Species, Pokemon_2_Type, Pokemon_2_Height, Pokemon_2_Weight, Pokemon_2_Attack>
-...
+
